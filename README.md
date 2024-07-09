@@ -1,0 +1,1 @@
+# Suicidal-Tendency-Detection-from-Social-Media-tweets-blogs
